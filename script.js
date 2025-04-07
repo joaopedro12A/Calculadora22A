@@ -85,3 +85,4 @@ function limpar() {
     porcentagem = 0
     pessoas = 0
 }
+
